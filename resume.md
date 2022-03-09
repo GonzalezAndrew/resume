@@ -4,8 +4,7 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - <andrewgonzo23@mail.com>
-- (832) -692-1902
-- [GitHub](http://github.com/GonzalezAndrew)
+- http://github.com/GonzalezAndrew
 - Austin, TX
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
@@ -46,9 +45,9 @@ hand -->
 
 A Python Module for the Flesh and Blood DB API which allows you to interact with the API in a pythonic way. With pyfabdb you can get a card by the card slug identifier, get all cards or retrieve a deck by the deck slug identifier
 
-### <span>Terraform DigitalOcean Remote Space Module (terraform-do-remotestate)</span>
+### <span>Terraform DigitalOcean App Site Module</span>
 
-A Terraform module that allows you to create a DigitalOcean space to be used as a Terraform remote state store. 
+A Terraform module for deploying a static stie to DigitalOcean App Platform. Supports all possible attributes for DigitalOcean App platform.
 
 ## Education
 
