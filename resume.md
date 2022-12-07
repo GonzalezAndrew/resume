@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Científico de alimentos apasionado y motivado con interés en el campo del desarrollo, la investigación, microbiología, la producción y la evaluación sensorial de productos alimenticios. Excelentes habilidades analíticas y de resolución de problemas para ofrecer soluciones innovadoras y efectivas a tiempo.
+Científico de alimentos con interés en el desarrollo y la investigación de productos alimenticios, así como en la evaluación sensorial y la utilización de técnicas de microbiología y análisis de datos. Con habilidades analíticas sobresalientes y una gran capacidad de resolución de problemas, puedo ofrecer soluciones innovadoras y efectivas en el campo de la ciencia de los alimentos.
 
 ## Educación
 
@@ -28,15 +28,18 @@ Licenciado en Ciencia de Alimentos (Pasante)
 
 ### <span>Laboratorio Tecinca, Laboratorio de Biologia de la Conservacion y Desarollo Sustentable </span> <span> Enero - Mayo 2022</span>
 
-- 
+- Trabajar en estrecha colaboración con el equipo de investigadores y otros profesionales.
+- Asegurar la eficiencia y eficacia del trabajo.
+- Diseñar y llevar a cabo experimentos.
+- Desarrollar nuevas técnicas de conservación y restauración de ecosistemas.
 
 ### <span>Técnica en el Laboratorio de Biología Celular, Empresa Facultad de Ciencias Biológicas UANL </span> <span>2018 – 2020</span>
 
-- Cargo del laboratorio 
-- Apoyando en prácticas en distintas materias 
-- Cuidado de material de laboratorio 
-- Realizar inventarios del material de laboratorio 
-- Búsqueda de artículos científicos 
+- Me encargaba del cargo del laboratorio.
+- Ayudaba en prácticas en distintas materias.
+- Me encargaba del cuidado del material de laboratorio.
+- Realizaba inventarios del material de laboratorio.
+- Buscaba artículos científicos.
 
 ## Habilidades
 
