@@ -11,7 +11,7 @@ line. It is intended to be used for contact details -->
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
-Científico de alimentos con interés en el desarrollo y la investigación de productos alimenticios, así como en la evaluación sensorial y la utilización de técnicas de microbiología y análisis de datos. Con habilidades analíticas sobresalientes y una gran capacidad de resolución de problemas, puedo ofrecer soluciones innovadoras y efectivas en el campo de la ciencia de los alimentos.
+Interés en el desarrollo y la investigación de productos alimenticios, así como en la evaluación sensorial y la utilización de técnicas de microbiología y análisis de datos. Con habilidades analíticas sobresalientes y una gran capacidad de resolución de problemas, puedo ofrecer soluciones innovadoras y efectivas en el campo de la ciencia de los alimentos.
 
 ## Educación
 
@@ -20,13 +20,15 @@ Licenciado en Ciencia de Alimentos (Pasante)
 
 ## Cursos y Diplomados 
 
-### <span>Cursó-taller de Gastronomía Molecular y Sabores</span> <span>2017</span>
+### <span>EXCI Constancia</span> <span>2022</span>
 
 ### <span>Seminario “El Huevo y Sus Ovoproductos, Productos de Valor Agregado A Base de Huevo"</span> <span>2019</span>
 
+### <span>Cursó-taller de Gastronomía Molecular y Sabores</span> <span>2017</span>
+
 ## Experiencia Laboral
 
-### <span>Laboratorio Tecinca, Laboratorio de Biologia de la Conservacion y Desarollo Sustentable </span> <span> Enero - Mayo 2022</span>
+### <span>Practicas Profesionales, Laboratorio de Manejo de Vida Silvestre y Desarrollo Sustentable. Area de Acuacultura.Unidad de Alimentacion Animal y Cultivos Vivos. Facultad de Ciencias Biologicas, UANL.</span> <span> Enero - Mayo 2022</span>
 
 - Trabajar en estrecha colaboración con el equipo de investigadores y otros profesionales.
 - Asegurar la eficiencia y eficacia del trabajo.
@@ -35,11 +37,11 @@ Licenciado en Ciencia de Alimentos (Pasante)
 
 ### <span>Técnica en el Laboratorio de Biología Celular, Empresa Facultad de Ciencias Biológicas UANL </span> <span>2018 – 2020</span>
 
-- Me encargaba del cargo del laboratorio.
-- Ayudaba en prácticas en distintas materias.
-- Me encargaba del cuidado del material de laboratorio.
-- Realizaba inventarios del material de laboratorio.
-- Buscaba artículos científicos.
+  
+- Ayudar en prácticas en distintas materias.
+- cuidado del material de laboratorio.
+- Realizar inventarios del material de laboratorio.
+- Busqueda de  artículos científicos.
 
 ## Habilidades
 
